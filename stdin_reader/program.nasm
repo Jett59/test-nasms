@@ -1,4 +1,4 @@
-;name: program.asm
+;name: program.nasm
 ;
 ;description: The program reads some input from stdin and writes it to stdout.
 ;
